@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+:root{
+  --mainWhite:#FFFFFF;
+  --mainPurple:#30235B;
+  --mainBlue:#0047F4;
+  --fontColor:#949494;
+  --mainBlack:#212529;
+  --mainOrange:#F2994A;
+}
